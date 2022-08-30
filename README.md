@@ -14,3 +14,8 @@
 #### Gif of the project: 
 
 <img src="https://github.com/waleedjmm/Executive-Dashboard-Education/blob/main/Executive_Education_Dashboard.gif" />
+
+
+#### HD Download Link:
+
+<p> You can download the HD video of the demo dashboard from this link https://github.com/waleedjmm/Executive-Dashboard-Education/blob/main/Executive_Education_Dashboard.mov </p>
