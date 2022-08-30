@@ -12,3 +12,5 @@
 
 
 #### Gif of the project: 
+
+<img src="https://github.com/waleedjmm/dashboard/blob/main/BI_Best.gif" width="800" height="600" />
