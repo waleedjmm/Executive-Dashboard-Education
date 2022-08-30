@@ -1,4 +1,4 @@
-# Executive Dashboard Education in Plotly Dash:
+# Education Executive Dashboard in Plotly Dash:
 
 <p> In the Executive Dashboard made for a client, the CEO of an educational orgnaization will in real time get the updates of all the important KPIs from different branches of the institution. The CEO will get a full-integrated dashboard, which he/she can then use for realtime analytics about the orgnanzation he she is running on. </p>
 
